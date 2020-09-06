@@ -1,0 +1,36 @@
+[2017-08-21 16:01:42] Текст ошибки: Нет соединения с БД | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Db.php | Строка: 14
+=================
+[2020-09-04 13:11:47] Текст ошибки: Нет соединения с БД | Файл: D:\Application\XAMPP\htdocs\testing\vendor\ishop\core\Db.php | Строка: 14
+=================
+[2020-09-04 13:11:47] Текст ошибки: Страница не найдена | Файл: D:\Application\XAMPP\htdocs\testing\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-09-04 13:11:59] Текст ошибки: Нет соединения с БД | Файл: D:\Application\XAMPP\htdocs\testing\vendor\ishop\core\Db.php | Строка: 14
+=================
+[2020-09-04 13:14:31] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'testing.test' doesn't exist | Файл: D:\Application\XAMPP\htdocs\testing\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 186
+=================
+[2020-09-04 13:14:32] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'testing.test' doesn't exist | Файл: D:\Application\XAMPP\htdocs\testing\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 186
+=================
+[2020-09-04 13:25:18] Текст ошибки: Страница не найдена | Файл: D:\Application\XAMPP\htdocs\testing\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-09-04 13:28:25] Текст ошибки: Страница не найдена | Файл: D:\Application\XAMPP\htdocs\testing\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-09-04 13:28:36] Текст ошибки: Страница не найдена | Файл: D:\Application\XAMPP\htdocs\testing\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-09-04 13:29:16] Текст ошибки: Страница не найдена | Файл: D:\Application\XAMPP\htdocs\testing\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-09-04 13:31:31] Текст ошибки: Страница не найдена | Файл: D:\Application\XAMPP\htdocs\testing\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-09-04 13:36:03] Текст ошибки: Страница не найдена | Файл: D:\Application\XAMPP\htdocs\testing\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-09-04 13:46:42] Текст ошибки: Страница не найдена | Файл: D:\Application\XAMPP\htdocs\testing\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-09-04 14:23:18] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DESC -- keep-cache' at line 1 | Файл: D:\Application\XAMPP\htdocs\testing\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 186
+=================
+[2020-09-04 14:23:21] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DESC -- keep-cache' at line 1 | Файл: D:\Application\XAMPP\htdocs\testing\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 186
+=================
+[2020-09-06 17:36:04] Текст ошибки: Страница не найдена | Файл: D:\Application\XAMPP\htdocs\testing\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-09-06 18:06:39] Текст ошибки: Страница не найдена | Файл: D:\Application\XAMPP\htdocs\testing\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-09-06 18:06:49] Текст ошибки: Страница не найдена | Файл: D:\Application\XAMPP\htdocs\testing\vendor\ishop\core\Router.php | Строка: 39
+=================
